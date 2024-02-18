@@ -61,3 +61,24 @@
     float: right;
     display: block;
 }
+.nav-1{
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+    display: flex;}
+.pic-1{
+    width: 450px;
+    height: 480px;
+    display: flex;
+    justify-content: flex-end;
+}
+.pic-2{
+    width: 300px;
+    align-self: center;
+    display: flex;
+}
+.summer{
+    background-color: #b18a80;
+    height: 300px;
+    margin-top: 150px;
+}
